@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suman and I'm a Python Developer, from India.<br>I also know Hardware & Networking, Troubleshooting, windows server, linux server, IT support.</h2>
+<h2 align="left">Hi 👋! I am Akash and I'm a Python Developer, from India.<br>I also know data analytics.</h2>
 
 ###
 
